@@ -45,9 +45,9 @@ The 10-character string can be broken down to determine who is authorized to acc
 
 
 * **1st Character:** Indicates file type. The letter `d` is for directory and a hyphen (`-`) is for a regular file.
-* **2nd-4th Characters: **These characters indicate read (`r`), write (`w`), and execute (`x`) permissions for the user. The user is the owner of the file. When one of these characters is a hyphen (`-`) instead, it indicates this permission is not granted to the user. 
-* **5th-7th Characters: **These characters indicate read (`r`), write (`w`), and execute (`x`) permissions for the group. A group consists of several users. When one of these characters is a hyphen (`-`) instead, it indicates this permission is not granted to the group.
-* **8th-10th Characters: **These characters indicate read (`r`), write (`w`), and execute (`x`) permissions for other. This owner type consists of all other users on the system apart from the user and the group. When one of these characters is a hyphen (`-`) instead, it indicates this permission is not granted for other. 
+* **2nd-4th Characters:** These characters indicate read (`r`), write (`w`), and execute (`x`) permissions for the user. The user is the owner of the file. When one of these characters is a hyphen (`-`) instead, it indicates this permission is not granted to the user. 
+* **5th-7th Characters:** These characters indicate read (`r`), write (`w`), and execute (`x`) permissions for the group. A group consists of several users. When one of these characters is a hyphen (`-`) instead, it indicates this permission is not granted to the group.
+* **8th-10th Characters:** These characters indicate read (`r`), write (`w`), and execute (`x`) permissions for other. This owner type consists of all other users on the system apart from the user and the group. When one of these characters is a hyphen (`-`) instead, it indicates this permission is not granted for other. 
 
 For example, the file permissions for `project_m.txt` are  `-rw-r-----`. The first character indicates that `project_m.txt` is a file since it is a hyphen (`-`). The second and fifth characters are `r`, which indicates that user and group have read permissions. The third character has a `w`, which indicates that only the user has write permission. No type of owner has execute permissions for `project_m.txt`. 
 
