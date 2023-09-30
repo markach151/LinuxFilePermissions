@@ -26,7 +26,7 @@ Conversion notes:
 
 ## Project description
 
-The research team at my organization needs me to ensure users on this team are authorized with the appropriate permissions. The permissions do not currently reflect the accurate level of authorization that should be given for certain files and directories. Modifying the permissions to the appropriate level will help keep the system secure. This endeavor was performed though the following tasks:  
+In this scenario, I'm a security professional at a large organization. The research team at my organization needs me to ensure users on this team are authorized with the appropriate permissions. The permissions do not currently reflect the accurate level of authorization that should be given for certain files and directories. Modifying the permissions to the appropriate level will help keep the system secure. This endeavor was performed though the following tasks:  
 
 
 ## Check file and directory details
