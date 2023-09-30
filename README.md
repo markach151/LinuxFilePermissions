@@ -4,7 +4,7 @@
 
 Yay, no errors, warnings, or alerts!
 
-Conversion time: 0.733 seconds.
+Conversion time: 0.719 seconds.
 
 
 Using this Markdown file:
@@ -17,7 +17,7 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β34
-* Sat Sep 30 2023 13:42:25 GMT-0700 (PDT)
+* Sat Sep 30 2023 13:44:50 GMT-0700 (PDT)
 * Source doc: File permissions in Linux
 ----->
 
@@ -35,7 +35,7 @@ The research team at my organization needs me to ensure users on this team are a
 
 The following code block shows how I use Linux commands to evaluate the existing permissions relating to a specific directory in the file system.
 
-The first line of code displays the command I entered, and the remaining lines display the output. The _ls _command with the _-la_ option displays permissions to files and directories, including hidden files. The output of my command indicates that there is one subdirectory named _drafts_, one hidden file named _.project_x.txt_, and four other project files. The 10-character string in the far left column represents the permissions set on each file or directory. 
+The first line of code displays the command I entered, and the remaining lines display the output. The _ls _command with the _-la_ option displays permissions to files and directories, including hidden files. The output of my command indicates that there is one subdirectory named _drafts_, one hidden file named <code><em>.project_x.txt</em></code>, and four other project files. The 10-character string in the far left column represents the permissions set on each file or directory. 
 
 
 ## Describe the permissions string
