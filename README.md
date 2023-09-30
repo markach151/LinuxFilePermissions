@@ -1,10 +1,8 @@
-<!-- Output copied to clipboard! -->
-
 <!-----
 
 Yay, no errors, warnings, or alerts!
 
-Conversion time: 0.719 seconds.
+Conversion time: 0.776 seconds.
 
 
 Using this Markdown file:
@@ -17,7 +15,7 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β34
-* Sat Sep 30 2023 13:44:50 GMT-0700 (PDT)
+* Sat Sep 30 2023 13:51:10 GMT-0700 (PDT)
 * Source doc: File permissions in Linux
 ----->
 
@@ -76,3 +74,5 @@ Since the group had execute permissions, I used chmod to remove them. The resear
 ## Summary
 
 [Add content here.]
+
+</p>
